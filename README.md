@@ -23,6 +23,7 @@ Vincent Bailly
 
 - [Udacity course](https://eu.udacity.com/course/website-performance-optimization--ud884) 
 - [Rendering pipeline](https://developers.google.com/web/fundamentals/performance/rendering/) 
+- [Performance API](https://developer.mozilla.org/en-US/docs/Web/API/Window/performance)
 
 ### Dev tools documentation
 - [Edge/IE](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide) 
