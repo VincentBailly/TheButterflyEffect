@@ -4,11 +4,12 @@
 
 Vincent Bailly
 - vibailly@microsoft.com
-- vincent.bailly@microsoft.com
 
 ## Useful links
 
 ### Live Persona Card
+
+- [Quick overview](https://microsoft-my.sharepoint-df.com/:p:/p/vibailly/EeRwVZ6RHOhJsYJsWihJiFUBbky4pbXuj2ME1rB6HXeyhg?e=5Bdam1)
 
 ### Layout thrashing
 
